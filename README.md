@@ -1,15 +1,5 @@
 <h1 align="center">SALAM 👋, I'm HAFIZ MUHAMMAD UMAIR</h1>
 
-## About Me
-
-I am a passionate Full Stack Web Developer with expertise in HTML, CSS, JavaScript, Tailwind CSS, React.js, Express.js, Node.js, Mongoose ODM, MongoDB, Git, and GitHub.
-
-My journey includes hands-on experience building real-time projects during my internships at Devsinc and IDEO. Currently, I am honing my skills further while working as an HR Assistant at Devsinc.
-
-I am committed to creating dynamic and responsive web applications, contributing to innovative solutions, and driving growth in Pakistan's IT landscape.
-
-Let's connect to collaborate on exciting projects and opportunities! 🚀👨‍💻🌐
-
 - 🔭 I’m currently working on FULL STACK PROJECTS
 - 🌱 I’m currently learning Backend and MVC 
 - 💬 Ask me anything about Web Development
