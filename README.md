@@ -27,7 +27,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,nodejs,react,git,github,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,nodejs,react,git,github,express,mongodb)](https://skillicons.dev)
 
 ![Hafiz Muhammad Umair's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafiz837&show_icons=true&theme=dark)
 
